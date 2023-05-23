@@ -277,7 +277,7 @@
 ```experiment 
 { "title": "请打开Shell工具输入ls操作", 
 "tool": "shell" }
- ```{{active 00:08:10.001}}
+ ```{{active 00:04:10.001}}
  ```valiate
  { "title": "请打开资源管理器index.js文件，点击运行",
  "tool": "run" }
@@ -302,4 +302,4 @@
   ],
   "selected": "A,B"
 }
-```{{active 00:04:06.001}}   
+```{{active 00:08:06.001}}   
