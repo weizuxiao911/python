@@ -39,4 +39,4 @@ Node.js 中 LTS 和 Current 的区别和如何选择合适的版本，在实际�
 #### 查看自己安装的版本号
 ```
 node -v
-```{{exec 'node -v'}}
+```{{exec 'node -v'}} 
