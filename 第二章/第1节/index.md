@@ -270,35 +270,36 @@
 ```question     
  { 
 "category": "radio", 
-"title": "一下不是Python3 的六个标准数据类型的是？",
+"title": "以下不是Python3的六个标准数据类型的是?",
  "options": [ 
-{ "key": "A", "value": "Number" }, { "key": "B", "value": "List" }, { "key": "C", "value": "Lt" }  ], "selected": "C" } ```{{active 00:00:06.001}}  
+{ "key": "A", "value": "Number" }, { "key": "B", "value": "List" }, { "key": "C", "value": "try" }  ], "selected": "C" } 
+```{{active 00:02:12.001}}  
 ```experiment 
 { "title": "请打开Shell工具输入ls操作", 
 "tool": "shell" }
- ```{{active 00:05:10.001}}
+ ```{{active 00:08:10.001}}
  ```valiate
  { "title": "请打开资源管理器index.js文件，点击运行",
  "tool": "run" }
- ```{{active 00:01:20.001}}
+ ```{{active 00:05:40.001}}
 ```question
 {
   "category": "checkbox",
-  "title": "请回答?",
+  "title": "以下是Python3的六个标准数据类型的是?",
   "options": [
     {
       "key": "A",
-      "value": "选项1"
+      "value": "Number"
     },
     {
       "key": "B",
-      "value": "选项2"
+      "value": "List"
     },
     {
       "key": "C",
-      "value": "选项3"
+      "value": "try"
     }
   ],
   "selected": "A,B"
 }
-```{{active 00:00:06.001}}   
+```{{active 00:04:06.001}}   
